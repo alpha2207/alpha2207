@@ -4,7 +4,7 @@ Hi 👋 My name is Ayan Ali
 Full Stack Web Developer at RapidBooks
 --------------------------------------
 
-Highly motivated and skilled fullstack web developer with experience in the MERN stack and a strong foundation in computer science principles. Currently pursuing a B.Tech degree in Computer Science from Parul University, where I have consistently achieved top grades and ranked 3rd in a campus-wide coding competition. I have also gained valuable hands-on experience through internships, including a Frontend Internship at Spider Innovation Technology. In this role, I developed and maintained web applications for clients. I also contributed to the development of Gujarat's largest tech festival website.
+Fullstack web developer with experience in the MERN stack and a strong foundation in computer science principles. Currently pursuing a B.Tech degree in Computer Science from Parul University, where I have consistently achieved top grades and ranked 3rd in a campus-wide coding competition. I have also gained valuable hands-on experience through internships, including a Frontend Internship at Spider Innovation Technology. In this role, I developed and maintained web applications for clients. I also contributed to the development of Gujarat's largest tech festival website.
 
 * 🌍  I'm based in India (🇮🇳)
 * ✉️  You can contact me at [22alpha07@gmail.com](mailto:22alpha07@gmail.com)
