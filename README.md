@@ -11,7 +11,7 @@ Fullstack web developer with experience in the MERN stack and a strong foundatio
 * 🧠  I'm learning Backend Development.
 * 🤝  I'm open to collaborating on any interesting Web Projects.
 
-<a href="https://www.github.com/alpha2207" target="_blank" rel="noreferrer"><img
+<a target="_blank" href="https://www.github.com/alpha2207" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alpha2207?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/alpha2207" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/alpha2207?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
